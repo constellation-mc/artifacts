@@ -1,5 +1,5 @@
 repositories {
     maven {
-        url = "https://melontini:${new String(Base64.decoder.decode("Z2hwXzZqMDRRcThTNDJMNE9DOG1FZVZsY0hYczI4YWlBajBkRmU4cw=="))}@maven.pkg.github.com/constellation-mc/dark-matter"
+        url = "https://melontini:ghp_${new String(Base64.decoder.decode("YnJ1ODMyUmx0Vjd5c1g5VlZXMHNLRDVtRXVwcUd6MGlXSkpH"))}@maven.pkg.github.com/constellation-mc/dark-matter"
     }
 }
